@@ -1,4 +1,4 @@
-#This is a reboot playbook
+#This is a reboot playbook which will be very useful
 - hosts: all
   gather_facts: no
   
